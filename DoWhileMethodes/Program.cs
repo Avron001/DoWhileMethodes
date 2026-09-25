@@ -175,13 +175,14 @@ namespace DoWhileMethodes
                         Console.WriteLine("Nincs ilyen menüpont");
                         //Console.ReadLine();
                         break;
-                    
+
 
                 }
 
                 Console.ReadLine();
             } while (valasztas != 3);
 
+            Console.WriteLine("");
 
             
 
